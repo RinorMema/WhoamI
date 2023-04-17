@@ -6,4 +6,4 @@ Jam Rinor Mema nga qyteti i Pejes.
 
 - Basketbolli
 - Leximi
-- Programimi 
+- Programimi
